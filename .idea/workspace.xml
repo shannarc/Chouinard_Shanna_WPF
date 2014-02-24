@@ -3,12 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="0cfe8d68-c230-4b41-89e9-c5457cdac537" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Associating JS/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Associating JS/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GIT_Repo.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1393213354509" ignored="false" />
-    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1393213962882" ignored="false" />
+    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1393214044725" ignored="false" />
     <file path="/index.html" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1392970037501" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Associating JS/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="20" selection-start="42" selection-end="42" vertical-scroll-proportion="0.09453782">
+            <state line="10" column="32" selection-start="252" selection-end="252" vertical-scroll-proportion="0.31512606">
               <folding />
             </state>
           </provider>
@@ -534,7 +533,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Associating JS/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="20" selection-start="42" selection-end="42" vertical-scroll-proportion="0.09453782">
+        <state line="10" column="32" selection-start="252" selection-end="252" vertical-scroll-proportion="0.31512606">
           <folding />
         </state>
       </provider>
