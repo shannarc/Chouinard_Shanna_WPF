@@ -1,13 +1,13 @@
-//Prompt and Alert
+//Conditional Logic
 
 
-var width = prompt("Calculating the area of a rectangle. \nPlease enter the width");
-var height = prompt ("Please enter heigth");
-var area = width * height;
-//console.log(area); //prints it out to console
+var oldEnough = true;
 
-var result = "The area of your rectangle is "  + area +  " square feet";
-alert (result);
+//if the child is old enough, print to the console "you can ride!"
+if(oldEnough){
+     //code performed if condition is true
+     console.log("you can ride the coaster!");
+}
 
 
 
