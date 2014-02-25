@@ -9,3 +9,5 @@
 //result it takes x hours to clean the weapons
 
 
+var numWeapons = 15;
+var hCleanPerWea = 2;
