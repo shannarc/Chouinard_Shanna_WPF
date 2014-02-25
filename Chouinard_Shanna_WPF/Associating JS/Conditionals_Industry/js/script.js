@@ -14,7 +14,10 @@ var hCleanWParts = 3;  //number of hours to clean if parts are needed
 
 if(numWeapons == 10){
     //if there are 10 weapons it will take 20 hours to clean them
-    console.log ("It will take x hours to clean the weapons!");
-}else{
+    console.log ("It will take 20 hours to clean the weapons!");
+}else if(hCleanWParts == 10){
+    //if all 10 weapons need parts, it will take 30 hours to clean the weapons
+    console.log("It will take 30 hours to clean the weapons!")
 
 }
+                             //HELP PLEASE
