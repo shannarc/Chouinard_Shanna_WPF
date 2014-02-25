@@ -1,7 +1,9 @@
-/**
- * Created with JetBrains WebStorm.
- * User: ANewLife
- * Date: 2/24/14
- * Time: 12:47 AM
- * To change this template use File | Settings | File Templates.
- */
+//Shanna Chouinard   25 February 2014   Conditionals Industry
+
+
+//If you have 30 weapons to clean, it will take 60 hours to clean all the weapons. It takes 2 hours to clean each weapon.
+
+
+
+
+
