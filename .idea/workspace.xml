@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cfe8d68-c230-4b41-89e9-c5457cdac537" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Associating JS/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Associating JS/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditional_Worksheet/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditional_Worksheet/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Industry/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Industry/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Wacky/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Wacky/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Industry/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Industry/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Personal/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Personal/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Wacky/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Wacky/js/script.js" />
-    </list>
+    <list default="true" id="0cfe8d68-c230-4b41-89e9-c5457cdac537" name="Default" comment="" />
     <ignored path="GIT_Repo.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1394162027523" ignored="false" />
