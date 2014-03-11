@@ -6,8 +6,8 @@
     </list>
     <ignored path="GIT_Repo.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1394479748792" ignored="false" />
-    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1394480518604" ignored="false" />
+    <file path="/Dummy.txt" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1394503210138" ignored="false" />
+    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1394504435940" ignored="false" />
     <file path="/index.html" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1394478495380" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Associating JS/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="20" selection-start="186" selection-end="186" vertical-scroll-proportion="0.24539877">
+            <state line="4" column="28" selection-start="111" selection-end="111" vertical-scroll-proportion="0.15337424">
               <folding />
             </state>
           </provider>
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="721" />
+    <option name="x" value="617" />
     <option name="y" value="22" />
     <option name="width" value="719" />
     <option name="height" value="635" />
@@ -201,8 +201,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -232,7 +232,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="721" y="22" width="719" height="635" extended-state="0" />
+    <frame x="617" y="22" width="719" height="635" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -395,7 +395,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Associating JS/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="20" selection-start="186" selection-end="186" vertical-scroll-proportion="0.24539877">
+        <state line="4" column="28" selection-start="111" selection-end="111" vertical-scroll-proportion="0.15337424">
           <folding />
         </state>
       </provider>
