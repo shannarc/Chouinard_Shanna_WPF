@@ -1,9 +1,9 @@
-//Expressions Concatenating Strings
+//Casting
 
-var firstName = "Kermit";
-var lastName = "The Frog";
-var fullName = firstName + " " + lastName;
-console.log(fullName);
+var stringVar = "6";
+var result = 7 + Number(stringVar);
+console.log(result)
+
 
 
 
