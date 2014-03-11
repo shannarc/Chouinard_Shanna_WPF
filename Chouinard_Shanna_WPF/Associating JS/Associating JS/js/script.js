@@ -1,8 +1,11 @@
-//Expressions   Age Example
+//Expressions   Arithmatic Operators
 
-var yearBorn = 1978;
-var age = 2014 - yearBorn
-console.log(age)
+//area of the traingle is half of the width times the height
+var width = 4;
+var height = 5;
+var area = width * height/2;
+console.log (area);
+
 
 
 
