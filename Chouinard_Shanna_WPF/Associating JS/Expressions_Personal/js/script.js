@@ -5,3 +5,5 @@
 //Givens
 
 var minsToFold [10, 8, 7, 12, 14]; //Amount of minutes it took to fold 5 separate loads of laundry.
+
+var totalMins = minsToFold[0] + minsToFold [1]
