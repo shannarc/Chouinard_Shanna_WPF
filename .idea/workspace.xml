@@ -6,8 +6,8 @@
     </list>
     <ignored path="GIT_Repo.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1394647075173" ignored="false" />
-    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1394648834133" ignored="false" />
+    <file path="/Dummy.txt" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1394648959486" ignored="false" />
+    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1394649154614" ignored="false" />
     <file path="/index.html" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1394589558757" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Wacky/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="67" selection-start="123" selection-end="123" vertical-scroll-proportion="0.12269939">
+            <state line="5" column="52" selection-start="177" selection-end="177" vertical-scroll-proportion="0.18404908">
               <folding />
             </state>
           </provider>
@@ -40,7 +40,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Wacky/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -115,7 +115,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -240,6 +239,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,8 +249,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -406,9 +406,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Associating JS/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.2760736">
-          <folding />
-        </state>
+        <state line="8" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.2760736" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Associating JS/index.html">
@@ -428,16 +426,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="86" selection-start="580" selection-end="580" vertical-scroll-proportion="0.5214724">
-          <folding />
-        </state>
+        <state line="10" column="86" selection-start="580" selection-end="580" vertical-scroll-proportion="0.5214724" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Personal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Wacky/index.html">
@@ -449,7 +443,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="67" selection-start="123" selection-end="123" vertical-scroll-proportion="0.12269939">
+        <state line="5" column="52" selection-start="177" selection-end="177" vertical-scroll-proportion="0.18404908">
           <folding />
         </state>
       </provider>

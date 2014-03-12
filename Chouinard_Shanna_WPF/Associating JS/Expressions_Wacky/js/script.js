@@ -2,3 +2,5 @@
 
 
 //Combine my first middle and last name using a string and booleen.
+
+var firstMidLast = ["Shanna", "Renee", "Chouinard"];
