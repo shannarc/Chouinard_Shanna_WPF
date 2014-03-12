@@ -6,5 +6,5 @@
 
 var minsToFold [10, 8, 7, 12, 14]; //Amount of minutes it took to fold 5 separate loads of laundry.
 
-var totalMins = minsToFold[0] + minsToFold [1] + minsToFold [2] + minsToFold [3] + minsToFold [4];
+var totalMins = minsToFold[0] + minsToFold [1] + minsToFold [2] + minsToFold [3] + minsToFold [4];   //Calculation of the total minutes it took to fold the laundry.
 
