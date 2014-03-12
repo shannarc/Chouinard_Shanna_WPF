@@ -3,12 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="0cfe8d68-c230-4b41-89e9-c5457cdac537" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Worksheet/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Worksheet/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GIT_Repo.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1394591625981" ignored="false" />
-    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1394591706458" ignored="false" />
+    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1394592512412" ignored="false" />
     <file path="/index.html" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1394589558757" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +31,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Worksheet/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="79" selection-start="816" selection-end="816" vertical-scroll-proportion="0.61349696">
+            <state line="10" column="77" selection-start="650" selection-end="650" vertical-scroll-proportion="0.49079755">
               <folding />
             </state>
           </provider>
@@ -396,7 +395,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Worksheet/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="79" selection-start="816" selection-end="816" vertical-scroll-proportion="0.61349696">
+        <state line="10" column="77" selection-start="650" selection-end="650" vertical-scroll-proportion="0.49079755">
           <folding />
         </state>
       </provider>
