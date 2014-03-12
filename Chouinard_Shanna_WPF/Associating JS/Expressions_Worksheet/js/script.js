@@ -1,10 +1,13 @@
 //Shanna Chouinard   11 March 2014   Expressions Worksheet
 
-//Dog Years
-//Dogs age 7 times faster than humans so a dog that is 1 year old in human years is 7 years old in "dog years."
-//Calculate how old Sparky the pit bull is in "dog years" based on his actual age.
+//Slice of Pie Part 1
+//A bunch of students are having a party and somebody ordered pizza. Create an expression that calculates how much pizza each partygoer will get at the party. (Assume all pizzas have the same number of slices and that the person dividing the pizza is really precise so this can be a decimal, like 3.52 slices etc.)
 
-var humanAge = 2;   //Sparky's age in human years'
-var sparkysAge = 7 * humanAge; //Sparky's age in dog years multiplied by human age
+var slicesPizza = 8;   //Number of slices per pizza
+var numPeople = 10;    //Number of people at the party
+var numPizzas = 5;     //Number of pizzas ordered
 
-console.log(sparkysAge); //print out Sparky's age in dog years
+var slicePerPer = numPeople * numPizzas / slicesPizza; //slices per person is the number of people multiplied by the number of pizzas and divided by the number of slices per pizza
+
+console.log(slicePerPer);  //Print out the number of pieces of pizza per person
+
