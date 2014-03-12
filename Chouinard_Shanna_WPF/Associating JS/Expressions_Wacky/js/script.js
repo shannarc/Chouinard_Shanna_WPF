@@ -3,4 +3,6 @@
 
 //Combine my first middle and last name using a string and booleen.
 
-var firstMidLast = ["Shanna", "Renee", "Chouinard"];
+//Given
+
+var firstMidLast = ["Shanna", "Renee", "Chouinard"];  // My first middle and last name using a string and booleen.
