@@ -7,4 +7,4 @@
 
 var firstMidLast = ["Shanna", "Renee", "Chouinard"];  // My first middle and last name using a string and booleen.
 
-var wholeName = firstMidLast[0] + firstMidLast[1] + firstMidLast [2];
+var wholeName = firstMidLast[0] + firstMidLast[1] + firstMidLast [2];  // add the strings within the booleen together to calculate the whole name
