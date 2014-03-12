@@ -1,11 +1,8 @@
-//Casting
+//Prompt and Alert
 
-var stringVar = "6";
-var result = 7 + Number(stringVar);
-console.log(result)
+var width = prompt("We are calculating the area of a rectangle.\nPlease enter the width");
+var height = prompt("Please enter the height");
+var area = width * height;
+//console.log(area);
 
-
-
-
-
-
+ alert("The area of your rectangle is " + area);
