@@ -17,3 +17,4 @@ if(weight < maxWeight){
 
 //if my weight is above the maximum 230 aloud, I can not jump.
 
+var weight = 162;
