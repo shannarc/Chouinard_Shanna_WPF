@@ -7,7 +7,7 @@
     <ignored path="GIT_Repo.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395237990555" ignored="false" />
-    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395239348395" ignored="false" />
+    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395239399768" ignored="false" />
     <file path="/index.html" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395082599601" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditional_Worksheet/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="419" selection-end="419" vertical-scroll-proportion="0.42944786">
+            <state line="8" column="47" selection-start="515" selection-end="515" vertical-scroll-proportion="0.4601227">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -397,7 +397,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditional_Worksheet/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="419" selection-end="419" vertical-scroll-proportion="0.42944786">
+        <state line="8" column="47" selection-start="515" selection-end="515" vertical-scroll-proportion="0.4601227">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
