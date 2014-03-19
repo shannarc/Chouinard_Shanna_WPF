@@ -3,7 +3,7 @@
 
 //Problem:  If I am over the maximum weight, I can not jump from the plane
 
-var weight = 280;   //My actual weight
+/*var weight = 280;   //My actual weight
 var maxWeight = 230;  //Maximum aloud weight to jump from plane
 
 if(weight < maxWeight){
@@ -12,5 +12,8 @@ if(weight < maxWeight){
 }else{
     //If my weight is more than the maximum weight aloud to jump from the plane, print out to the console, "I am soooooo sorry, you need to lose some weight!"
     console.log ("I am soooooo sorry, you need to lose weight!");
-}
+}*/
+
+
+//if my weight is above the maximum 230 aloud, I can not jump.
 
