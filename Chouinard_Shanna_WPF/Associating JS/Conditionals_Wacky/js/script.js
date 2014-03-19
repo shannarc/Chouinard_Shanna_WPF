@@ -17,4 +17,8 @@ if(weight < maxWeight){
 
 //if my weight is above the maximum 230 aloud, I can not jump.
 
-var weight = 162;
+var weight = 239;  //How much I weigh
+
+(weight < 230)?
+    console.log ("I can Jump!"):
+    console.log ("I have to lose weight!")
