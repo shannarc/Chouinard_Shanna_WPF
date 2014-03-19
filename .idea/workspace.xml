@@ -3,12 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="0cfe8d68-c230-4b41-89e9-c5457cdac537" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GIT_Repo.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395255990112" ignored="false" />
-    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395255867607" ignored="false" />
+    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395256331044" ignored="false" />
     <file path="/index.html" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395082599601" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +31,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="20" selection-start="293" selection-end="293" vertical-scroll-proportion="0.2760736">
+            <state line="5" column="20" selection-start="253" selection-end="253" vertical-scroll-proportion="0.24539877">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -496,7 +495,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="20" selection-start="293" selection-end="293" vertical-scroll-proportion="0.2760736">
+        <state line="5" column="20" selection-start="253" selection-end="253" vertical-scroll-proportion="0.24539877">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
