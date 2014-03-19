@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cfe8d68-c230-4b41-89e9-c5457cdac537" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Industry/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Industry/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/js/script.js" />
     </list>
     <ignored path="GIT_Repo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,18 +29,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Industry/js/script.js">
+        <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="1" selection-start="614" selection-end="614" vertical-scroll-proportion="0.61349696">
-              <folding />
+            <state line="3" column="0" selection-start="60" selection-end="60" vertical-scroll-proportion="0.09202454">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Industry/index.html">
+        <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -69,7 +71,6 @@
         <option value="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Wacky/index.html" />
         <option value="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/index.html" />
         <option value="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditional_Worksheet/index.html" />
-        <option value="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/js/script.js" />
         <option value="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Wacky/js/script.js" />
         <option value="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Worksheet/index.html" />
         <option value="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Worksheet/js/script.js" />
@@ -80,6 +81,7 @@
         <option value="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Associating JS/js/script.js" />
         <option value="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditional_Worksheet/js/script.js" />
         <option value="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Industry/js/script.js" />
+        <option value="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/js/script.js" />
       </list>
     </option>
   </component>
@@ -139,6 +141,54 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Associating JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIT_Repo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIT_Repo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chouinard_Shanna_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Associating JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals_Personal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIT_Repo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIT_Repo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chouinard_Shanna_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Associating JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals_Personal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -394,16 +444,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="33" selection-start="583" selection-end="583" vertical-scroll-proportion="0.40966386" />
@@ -443,8 +483,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Industry/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="1" selection-start="614" selection-end="614" vertical-scroll-proportion="0.61349696">
+        <state line="15" column="8" selection-start="766" selection-end="766" vertical-scroll-proportion="0.82822084">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditionals_Personal/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="60" selection-end="60" vertical-scroll-proportion="0.09202454">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
