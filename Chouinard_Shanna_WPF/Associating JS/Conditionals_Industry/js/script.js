@@ -8,5 +8,8 @@ var dayOfWeek = "Friday";  //What day of the week is it?
 if(weather === "snow" ^ dayOfWeek === "Friday"){
     //if it is snowing outside or it is Friday, print out to the console, "you will be getting off at 4:00 today"
     console.log("You will be getting off at 4:00 today!");
+}else{
+    //otherwise, print out to the console, "You will be getting off at 5:00 today!"
+    console.log("You will be getting off at 5:00 today!");
 }
 
