@@ -3,11 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="0cfe8d68-c230-4b41-89e9-c5457cdac537" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditional_Worksheet/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditional_Worksheet/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GIT_Repo.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395236174372" ignored="false" />
-    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395236893385" ignored="false" />
+    <file path="/Dummy.txt" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395237990555" ignored="false" />
+    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395238632128" ignored="false" />
     <file path="/index.html" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395082599601" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +32,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditional_Worksheet/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="61" selection-start="470" selection-end="470" vertical-scroll-proportion="0.42944786">
+            <state line="14" column="96" selection-start="758" selection-end="758" vertical-scroll-proportion="0.76687115">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -42,7 +43,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditional_Worksheet/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -117,7 +118,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -194,6 +194,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,8 +204,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -397,7 +398,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Conditional_Worksheet/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="61" selection-start="470" selection-end="470" vertical-scroll-proportion="0.42944786">
+        <state line="14" column="96" selection-start="758" selection-end="758" vertical-scroll-proportion="0.76687115">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
