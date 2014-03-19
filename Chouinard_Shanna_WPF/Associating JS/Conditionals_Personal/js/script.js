@@ -5,3 +5,8 @@
 
 var weather = "windy";  //how is the weather, ie windy, rainy, snowy
 var temp = 82;         //what is the temperature using whole numbers
+
+if(weather === "windy" ^ weather === "rainy"){
+    //If it is windy or rainy, print out to the console, "I will drive the car today!"
+    console.log ("I will drive the car today!");
+}
