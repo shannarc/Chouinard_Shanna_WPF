@@ -1,14 +1,13 @@
-//Functions  Function vs Procedure
+//Functions  Anonymous Function
 
-//this is a function
-function calcArea(w, h){
-    var area = w * h;
+
+
+var calcArea = function(width, height){ //defining
+    //code the function runs
+    var area = width * height;
     return area;
 }
 
-//this is a procedure
-function calcArea(w, h){
-    var area = w * h;
-    console.log(area); //no return
-}
+var a = calcArea(20, 30); //invoking must happen after defining the function
+console.log (a);
 
