@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cfe8d68-c230-4b41-89e9-c5457cdac537" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Industry/index.html" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Industry/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Personal/index.html" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Personal/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Wacky/index.html" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Wacky/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Industry/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Industry/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Personal/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Personal/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Wacky/js/script.js" afterPath="$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Wacky/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GIT_Repo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,7 +31,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Industry/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="20" selection-start="75" selection-end="75" vertical-scroll-proportion="0.07692308">
+            <state line="7" column="4" selection-start="207" selection-end="207" vertical-scroll-proportion="0.2006689">
               <folding />
             </state>
           </provider>
@@ -411,7 +405,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Industry/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="20" selection-start="75" selection-end="75" vertical-scroll-proportion="0.07692308">
+        <state line="7" column="4" selection-start="207" selection-end="207" vertical-scroll-proportion="0.2006689">
           <folding />
         </state>
       </provider>
