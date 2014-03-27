@@ -11,4 +11,8 @@ function total (){  //Function Name
 
     console.log(total); //Print out the total to the console
 }
+total ();
+total ();  //call
+total ();
+
 
