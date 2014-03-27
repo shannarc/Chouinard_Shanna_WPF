@@ -5,3 +5,7 @@
 
 function total (){  //Function Name
 
+    var hoursDay = 8; //8 hour work day
+    var equipRepairPerH = 1; //1 piece of equipment is cleaned per hour
+    var total = hoursDay * equipRepairPerH; //total pieces of equipment cleaned within an 8 hour work day is calculated by multiplying the total number of hours worked with pieces of equipment cleaned every hour
+
