@@ -2,13 +2,13 @@
 
 
 
-//Calculate the circumference of a circle
+//Stung
 
-function calcCirc(){  //functionName
-    var radius = 5;   //radius of the circle
-    var pie = 3.14;   //variable pie
-    var calcCirc = 2 * pie * radius; //how to calculate the circumference of a circle
-    console.log("The circumference of the circle is " + calcCirc + "!"); //Print out to console
+function vicWeight(){  //functionName
+    var stingPerLb = 8.666666667;   //bee stings per pound to kill an animal
+    var vicWeight = 58;   //victims weight
+    var stingsToKill = vicWeight * stingPerLb; //
+    console.log("It takes " + stingsToKill + " bee stings to kill this animal!"); //Print out to console
 
 }
-calcCirc();   //call
+vicWeight();   //call
