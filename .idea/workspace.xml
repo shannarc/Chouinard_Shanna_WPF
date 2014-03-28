@@ -7,7 +7,7 @@
     <ignored path="GIT_Repo.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395974107611" ignored="false" />
-    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395974236808" ignored="false" />
+    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395974280479" ignored="false" />
     <file path="/index.html" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395931930059" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Wacky/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="20" selection-start="434" selection-end="434" vertical-scroll-proportion="0.50167227">
+            <state line="16" column="31" selection-start="457" selection-end="457" vertical-scroll-proportion="0.50167227">
               <folding />
             </state>
           </provider>
@@ -395,7 +395,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="20" selection-start="434" selection-end="434" vertical-scroll-proportion="0.50167227">
+        <state line="16" column="31" selection-start="457" selection-end="457" vertical-scroll-proportion="0.50167227">
           <folding />
         </state>
       </provider>
