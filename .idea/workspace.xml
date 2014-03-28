@@ -6,8 +6,8 @@
     </list>
     <ignored path="GIT_Repo.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395972297261" ignored="false" />
-    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395973907643" ignored="false" />
+    <file path="/Dummy.txt" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395974107611" ignored="false" />
+    <file path="/script.js" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395974236808" ignored="false" />
     <file path="/index.html" changelist="0cfe8d68-c230-4b41-89e9-c5457cdac537" time="1395931930059" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Wacky/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.32608697">
+            <state line="16" column="20" selection-start="434" selection-end="434" vertical-scroll-proportion="0.50167227">
               <folding />
             </state>
           </provider>
@@ -40,7 +40,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Wacky/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="16" selection-start="46" selection-end="46" vertical-scroll-proportion="-1.875">
+            <state line="3" column="16" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="268" />
+    <option name="x" value="244" />
     <option name="y" value="22" />
     <option name="width" value="915" />
     <option name="height" value="744" />
@@ -201,8 +201,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -232,7 +232,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="268" y="22" width="915" height="744" extended-state="0" />
+    <frame x="244" y="22" width="915" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -358,9 +358,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="56" selection-end="580" vertical-scroll-proportion="0.17558528">
-          <folding />
-        </state>
+        <state line="6" column="13" selection-start="56" selection-end="580" vertical-scroll-proportion="0.17558528" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Expressions_Wacky/js/script.js">
@@ -370,42 +368,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Industry/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="7" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Industry/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="634" selection-end="634" vertical-scroll-proportion="0.43589744">
-          <folding />
-        </state>
+        <state line="17" column="0" selection-start="634" selection-end="634" vertical-scroll-proportion="0.43589744" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="12" selection-start="633" selection-end="633" vertical-scroll-proportion="0.451505">
-          <folding />
-        </state>
+        <state line="15" column="12" selection-start="633" selection-end="633" vertical-scroll-proportion="0.451505" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Personal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="0.078397214">
-          <folding />
-        </state>
+        <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="0.078397214" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Wacky/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="16" selection-start="46" selection-end="46" vertical-scroll-proportion="-1.875">
+        <state line="3" column="16" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chouinard_Shanna_WPF/Associating JS/Functions_Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.32608697">
+        <state line="16" column="20" selection-start="434" selection-end="434" vertical-scroll-proportion="0.50167227">
           <folding />
         </state>
       </provider>
