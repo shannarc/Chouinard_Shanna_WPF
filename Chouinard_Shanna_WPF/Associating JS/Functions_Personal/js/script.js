@@ -13,4 +13,4 @@ var totalMins = minsToFeed[0] + minsToFeed[1] + minsToFeed[2] + minsToFeed[3] + 
 
 console.log("It takes an average of " + totalMins + " to feed four dogs!!!");  // print out the average minutes it takes to feed all four dogs
 }
-
+totalMins();
