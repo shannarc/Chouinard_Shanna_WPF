@@ -5,7 +5,7 @@
 
 //Determine the average amount of minutes it takes to feed 4 dogs.
 
-
+function  totalMins(){
 
 var minsToFeed =[15, 10, 9, 14, 13]; //Amount of minutes it took to feed 4 dogs.
 
