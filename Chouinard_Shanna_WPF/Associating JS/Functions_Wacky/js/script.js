@@ -13,4 +13,5 @@ var statement = mySavior[0] + " " +mySavior[1] + " " + mySavior[2] + " " + mySav
 
 console.log(statement); //Print out to console
 }
-
+myState();
+myState();    //Call
