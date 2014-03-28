@@ -7,3 +7,6 @@
 
 
 
+var mySavior = ["JESUS", "Is", "My", "Savior"];  // My Savior statement using a string and booleen.
+
+
