@@ -5,7 +5,7 @@
 
 //Combine the four different words together to make my Savior Statement using a string and booleen.
 
-function myState {
+function myState (JESUS, Is, My, Savior){
 
 var mySavior = ["JESUS", "Is", "My", "Savior"];  // My Savior statement using a string and booleen.
 
